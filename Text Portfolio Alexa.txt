@@ -7,6 +7,7 @@ https://github.com/
 home__description
 High level experience in web design and development knowledge, producing quality work.
 
+mantaps nih
 
 * ABOUT
 about__description
